@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: 清醒计划
 
-tagline: 用数据对抗睡眠呼吸暂停(OSA)和糖前期
+tagline: tagline: 我花了3年开发量化交易系统，现在用同样的方法把自己的身体重新调试一遍。
 
 description: 中度OSA+糖前期，用数据改变自己。
 
@@ -24,11 +24,9 @@ description: 中度OSA+糖前期，用数据改变自己。
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://equinoxia911.github.io"
 
-baseurl: "/clarityplan"
-
 author:
   name: 清醒计划
-  bio: 43岁｜中度OSA+糖前期｜前阿里程序员 | 现量化交易员
+  bio: 43岁｜量化交易员｜中度OSA ｜糖前期｜用工程师思维找回清醒
 
 github:
   username: equinoxia911 # change to your GitHub username
@@ -155,7 +153,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/clarityplan"
 
 # ------------ The following options are not recommended to be modified ------------------
 
