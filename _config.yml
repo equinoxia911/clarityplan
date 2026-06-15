@@ -6,24 +6,27 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: zh-CN
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: 清醒计划
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 用数据对抗睡眠呼吸暂停(OSA)和糖前期
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: 中度OSA+糖前期，用数据改变自己。
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://equinoxia911.github.io"
+
+author:
+  name: 清醒计划
+  bio: 43岁｜中度OSA+糖前期｜前阿里程序员 | 现量化交易员
 
 github:
   username: github_username # change to your GitHub username
